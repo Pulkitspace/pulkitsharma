@@ -1,5 +1,4 @@
-### Hi there 👋, Pulkit Sharma
-#### Programming, Design and Development
+# Pulkit Sharma
 
 ## Skills and Experience
 • C++
