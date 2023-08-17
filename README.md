@@ -1,10 +1,14 @@
 ### Hi there 👋, Pulkit Sharma
 #### Programming, Design and Development
 
+## Skills and Experience
+• C++
+• HTML
+• CSS
+
 I am a CS undergraduate student at DAV Institute of Engineering and Technology, Jalandhar.
 I love writing code and solving problems.
 
-Skills: C++/ HTML / CSS
  
 
 
